@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.coverprofile
+
+# Dependency directories (uncomment to ignore vendor folder)
+# vendor/
+
+# Project-specific binaries (optional, but good practice to put in a /bin folder)
+/bin/
+
+# IDE/editor-specific files (examples)
+.vscode/
+.idea/
+*.swp
